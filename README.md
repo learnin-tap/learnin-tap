@@ -14,4 +14,4 @@ I am a front-end development engineer from Nanchang.
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=for-the-badge&logo=eslint)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=learnin-tap&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+![](https://github-readme-stats.vercel.app/api?username=learnin-tap&count_private=true&show_icons=true&theme=synthwave)
