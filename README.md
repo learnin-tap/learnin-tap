@@ -14,6 +14,8 @@ I am a front-end development engineer from Nanchang.
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=for-the-badge&logo=eslint)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
+![Prettier](https://img.shields.io/badge/-Prettier-%23142027?style=for-the-badge&logo=prettier)
+
 
 ### Open source work stats
 
